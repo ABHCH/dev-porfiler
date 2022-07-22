@@ -54,6 +54,6 @@ const displayRepo = (data1) => {
         </div>
     </div> `;
 
-    repContainer.insertAdjacentHTML("afterend", html);
+    repContainer.insertAdjacentHTML("beforeend", html);
   });
 };
