@@ -216,6 +216,7 @@ body {
 
 .repo-bio {
     margin-top: 1rem;
+    font-family: var(--Raleway-font);
 }
 
 .repo-tec {
